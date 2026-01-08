@@ -1,0 +1,25 @@
+﻿Change History Details
+
+Output Date/Time,2024/04/01 10:30:50
+Target Products,/A/jjjjjjjjjj.xlsx
+Updated Contents,Update Products
+
+Before Change
+Revision,202404-0008
+Comment,[ConTrack]成果物ステータスを編集
+Updated By,hanv
+Date/Time,01/04/2024 10:16:17
+
+After Change
+Revision,202404-0009
+Comment,[ConTrack]成果物を更新
+Updated By,hanv
+Date/Time,01/04/2024 10:17:21
+
+Update Details
+Elements,Operations,Before Change: Element Name,Before Change: Body Text,After Change: Element Name,After Change: Body Text
+/A/jjjjjjjjjj.xlsx,,/A/jjjjjjjjjj.xlsx,,/A/jjjjjjjjjj.xlsx,
+Ticket VSJP: https://contrack-redmine.japaneast.cloudapp.azure.com/issues/5987,,Ticket VSJP: https://contrack-redmine.japaneast.cloudapp.azure.com/issues/5987,"<meta charset=""UTF-8""></meta>",Ticket VSJP: https://contrack-redmine.japaneast.cloudapp.azure.com/issues/5987,"<meta charset=""UTF-8""></meta>"
+Tái hiện 18984561563:,,Tái hiện 18984561563:,"<meta charset=""UTF-8""></meta>",Tái hiện 18984561563:,"<meta charset=""UTF-8""></meta>"
+Đánh giá 12h12h12h12:,Modify,Đánh giá:,"<meta charset=""UTF-8""></meta>",Đánh giá 12h12h12h12:,"<meta charset=""UTF-8""></meta>"
+
